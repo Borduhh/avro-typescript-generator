@@ -1,0 +1,23 @@
+{
+  "name": "@borduhh/avro-typescript-generator",
+  "version": "1.0.0",
+  "description": "Converts AVRO schemas to Typescript types",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borduhh/avro-typescript-generator.git"
+  },
+  "keywords": [
+    "AVRO",
+    "typescript"
+  ],
+  "author": "Nick Bordeau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Borduhh/avro-typescript-generator/issues"
+  },
+  "homepage": "https://github.com/Borduhh/avro-typescript-generator#readme"
+}
