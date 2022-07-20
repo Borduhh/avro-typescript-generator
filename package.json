@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Converts AVRO schemas to Typescript types",
   "main": "dist/index.js",
+  "private": false,
   "scripts": {
     "start": "avro-typescript",
     "build": "tsc",
@@ -20,7 +21,7 @@
     "AVRO",
     "typescript"
   ],
-  "author": "Nick Bordeau",
+  "author": "Nick Bordeau (https://www.linkedin.com/in/borduhh/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Borduhh/avro-typescript-generator/issues"
