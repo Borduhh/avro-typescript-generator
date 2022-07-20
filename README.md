@@ -1,7 +1,5 @@
 # avro-typescript-generator
 
-### This project is under active development and might have breaking changes without notice.
-
 A quick CLI tool that converts AVRO schemas to typescript `d.ts` files.
 
 ## Usage
