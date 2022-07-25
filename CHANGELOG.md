@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Borduhh/avro-typescript-generator/compare/v1.1.0...v1.1.1) (2022-07-25)
+
+
+### Bug Fixes
+
+* build during release ([4906f70](https://github.com/Borduhh/avro-typescript-generator/commit/4906f706490e31b3724df39cb1c9e8d9ff409a1b))
+
 # [1.1.0](https://github.com/Borduhh/avro-typescript-generator/compare/v1.0.0...v1.1.0) (2022-07-20)
 
 
